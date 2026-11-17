@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simpsons</string>
+    <string name="app_cache">app_cache</string>
+    <string name="simpsons_local_xml">simpsons_local_xml</string>
+</resources>
